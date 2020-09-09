@@ -1,0 +1,20 @@
+//Fonts
+$font-family-base: 'Roboto', 'sans-serif';
+$font-weight-base: 400;
+$font-weight-bolder: 700;
+$line-height-base: 1.5;
+
+
+// Colors
+$white: #ffffff;
+$black: #000000;
+$color-primary: #f5842d;
+
+//Body 
+$body-color: $black;
+$body-bg: $white;
+
+// Breakpoints
+$grid-breakpoints: (
+  md: 768px
+);
